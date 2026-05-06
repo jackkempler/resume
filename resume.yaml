@@ -1,0 +1,77 @@
+cv:
+  name: Jack Kempler
+  location: Tarrytown, NY
+  email: jackkempler@gmail.com
+  phone: "+1 914 980 4538"
+  sections:
+    professional_profile:
+      - Detail-oriented Psychology and Computer Science double major at UW–Madison, focused on the intersection of clinical research and digital interventions. Experienced in technical instruction and community outreach. Proficient in Python, R, and Java, with a strong interest in utilizing data science to study addiction and support clinical research initiatives.
+    education:
+      - institution: University of Wisconsin–Madison
+        area: Bachelor of Science in Computer Science & Psychology
+        degree: BS
+        location: Madison, WI
+        start_date: 2024-09
+        end_date: 2028-05
+        highlights:
+          - "Relevant Coursework: Psych 225 (Research Methods), Computer Science (Java, Python, C), Statistics"
+      - institution: Irvington High School (IHS)
+        area: Diploma (Magna Cum Laude)
+        location: Irvington, NY
+        end_date: 2024-05
+    technical_skills:
+      - label: Programming Languages
+        details: Bash, C, Java, Lua, Python, R, Nix
+      - label: Digital Workspace Tools
+        details: Google Workspace, Microsoft Office, Slack, Zoom
+      - label: Interpersonal
+        details: Conflict Resolution, Spanish (Conversational), Technical Instruction
+    research_and_technical_experience:
+      - company: Cyber Seniors
+        position: Technical Volunteer
+        start_date: 2022-04
+        end_date: present
+        highlights:
+          - Provide one-on-one technical instruction to senior citizens, adapting teaching styles to varying levels of digital literacy.
+          - Deliver weekly presentations and live demos on utilizing Microsoft Office, Zoom, and Adobe software.
+          - Resolve hardware and software issues to help participants maintain digital connectivity.
+      - company: IHS PawPrint
+        position: Chief Technology Officer
+        start_date: 2022-08
+        end_date: 2024-05
+        highlights:
+          - Designed a streamlined digital publishing platform and automated tools for archival data management.
+          - Led platform troubleshooting and staff training on CMS tools to ensure seamless operational continuity.
+          - Used site analytics to identify navigation bottlenecks and optimize user engagement for digital editions.
+      - company: MEDLIFE
+        position: Health Outreach Volunteer
+        start_date: 2022-07
+        end_date: 2024-05
+        highlights:
+          - Participated in service projects supporting health and education initiatives in underserved communities.
+          - Fundraised nearly $1,000 for medical and education supplies as President of the IHS Spanish Club.
+      - company: The Digital Arts Experience
+        position: Assistant Instructor
+        start_date: 2021-06
+        end_date: 2021-07
+        highlights:
+          - Taught programming (Java & Python) to students aged 9–13, translating complex technical concepts into accessible projects.
+          - Designed engaging curriculum to foster creativity and participation in STEM.
+          - Liaised with leadership and parents to provide progress updates and address technical concerns.
+    work_experience:
+      - company: Chipotle
+        position: Crew Member
+        start_date: 2024-06
+        end_date: 2025-08
+        highlights:
+          - Managed high-intensity peak hours, ensuring precision and efficiency in order fulfillment.
+          - Resolved customer concerns and managed conflicts in a high-volume, fast-paced environment.
+      - company: Playa Bowls
+        position: Crew Member
+        start_date: 2022-04
+        end_date: 2022-07
+        highlights:
+          - Maintained high service accuracy and professional communication in a team-oriented retail setting.
+          - Handled POS operations and end-of-shift financial reconciliation tasks.
+design:
+  theme: engineeringresumes
